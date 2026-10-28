@@ -1,0 +1,6 @@
+{
+  "name": "The Proposal: A Playful Interactive Journey",
+  "description": "A playful, aesthetic romantic proposal journey featuring a compatibility quiz, arcade mini-games, and a special question.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
